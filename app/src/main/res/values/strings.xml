@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FiveAlarm</string>
+    <string name="txt_in">출근 시간:</string>
+    <string name="txt_out">퇴근 시간:</string>
+    <string name="next_time">Next Time</string>
+    <string name="count">횟수:</string>
+    <string name="Alarm_Title">알람 화면</string>
+    <string name="MainTitle">5분 알람</string>
+    <string name="txt_inOut">출근시간과 퇴근시간\n입력해주세요.</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_set">설정 완료</string>
+</resources>
