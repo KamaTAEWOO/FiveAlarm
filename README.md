@@ -6,10 +6,10 @@
 ### 아직 프로젝트 완성 안 됨. 개발중
 
 ### 화면 구성
-![image](https://user-images.githubusercontent.com/48404941/191399806-cef7695d-d98c-49b0-95bb-b8b269394bd9.png)
+![image](https://user-images.githubusercontent.com/48404941/191400231-d03575ba-4761-475f-91bc-d7c0ccb2e001.png)
 # - 3초 후 다음 페이지 넘어감
 
-![image](https://user-images.githubusercontent.com/48404941/191399861-6936ef11-60df-4abe-9693-bdbdb56dac65.png)
+![image](https://user-images.githubusercontent.com/48404941/191400280-b76a3fd4-b916-4e40-89a6-bf3753ce7b40.png)
 # - 출근 시간과 퇴근 시간을 입력하여 매 시간 알람의 횟수와 계산
 
 ![image](https://user-images.githubusercontent.com/48404941/191399909-38bc5196-8d8d-4603-bef5-cb24118fe8c0.png)
